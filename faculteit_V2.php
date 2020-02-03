@@ -7,6 +7,7 @@ while($i < $num){
     $out += $out * $i;
     $i++;
 }
+
 echo($out);
 
 ?>
